@@ -34,7 +34,7 @@ Below you will find an explanation of the folders.*
 
 > [!WARNING]
 > #### All text and words during projects and files will be in Brazilian Portuguese *As it is my native language* .
-> #### *Todos os texto e palavras durante os projetos e arquivos estárão no idioma Portugês Brasileiro Pois é minha lingua nativa*
+> #### *Todos os texto e palavras durante os projetos e arquivos estárão no idioma Português Brasileiro pois é minha lingua nativa*
 
 ___
 #### Todos os direitos dos arquivos e projetos são de autoria de Eric Fortes da Costa. Para mais contato, segue o canal de Contato:<br>
