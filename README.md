@@ -21,7 +21,7 @@ Below you will find an explanation of the folders.*
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
-# Organização das Pastas 🗂
+# Folder Organization 🗂
 ### 🗂Repository Folder (Mobile-React-Native)<br/>
 >#### 📂Projects folder(During the course, developed projects will be sent)<br/>                                          
 >#### 🗂Studies Folder<br/>
