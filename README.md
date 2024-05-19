@@ -9,17 +9,16 @@ Below you will find an explanation of the folders.*
 #### Tools and Languages ​​used:
 >#### Ferramentas e Linguagens usadas
 <hr>
-<br/>
-
-> [!IMPORTANT]
-> **The tools do not need to be the same to execute projects and studies.** <br>
-> As ferramentas não precisam ser as mesmas para executar os projetos e estudos
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![FireBase](https://img.shields.io/badge/FireBase-red?style=for-the-badge&logo=FireBase&logoColor=white)&nbsp;
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+
+> [!IMPORTANT]
+> **The tools do not need to be the same to execute projects and studies.** <br>
+> As ferramentas não precisam ser as mesmas para executar os projetos e estudos
 
 # Folder Organization 🗂
 ### 🗂Repository Folder (Mobile-React-Native)<br/>
@@ -37,7 +36,7 @@ Below you will find an explanation of the folders.*
 > #### *Todos os texto e palavras durante os projetos e arquivos estárão no idioma Português Brasileiro pois é minha lingua nativa*
 
 ___
-#### Todos os direitos dos arquivos e projetos são de autoria de Eric Fortes da Costa. Para mais contato, segue o canal de Contato:<br>
+#### All files and projects are authored by Eric Fortes da Costa. For further contact, follow the Contact channel:<br>
 <div> 
 <a href="https://www.instagram.com/ericfortesdev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
